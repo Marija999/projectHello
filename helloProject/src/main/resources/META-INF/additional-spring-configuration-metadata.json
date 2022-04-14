@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasurce.platform",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasurce.platform."
+  }
+] }
